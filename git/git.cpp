@@ -1,7 +1,11 @@
 #include <iostream>
+#include "Header.h"
+
 
 int main()
 {
-	std::cout << "dupa" << '\n';
+	BindDevice(4);
+	a c;
+	c.print();
 	return 0;
-}
+}//awadwasawdsad
